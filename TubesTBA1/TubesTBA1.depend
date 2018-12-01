@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1477210337 source:d:\kuliah\tingkat 3\teori bahasa dan automata\tugas\tubestba1\hasil.cpp
+	"hasil.h"
+
+1477210350 d:\kuliah\tingkat 3\teori bahasa dan automata\tugas\tubestba1\hasil.h
+	<iostream>
+	<cstdlib>
+	<String.h>
+	<windows.h>
+
+1477210779 source:d:\kuliah\tingkat 3\teori bahasa dan automata\tugas\tubestba1\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	"hasil.h"
+
+1477034175 d:\kuliah\tingkat 3\teori bahasa dan automata\tugas\tubestba1\hasil.cpp
+	"hasil.h"
+	<string.h>
+
+1481085483 source:d:\alif\tugas kuliah\smt 5\tba\tubes tahap 1\cek\tubestba1\hasil.cpp
+	"hasil.h"
+
+1481031175 d:\alif\tugas kuliah\smt 5\tba\tubes tahap 1\cek\tubestba1\hasil.h
+	<iostream>
+	<cstdlib>
+	<String.h>
+	<windows.h>
+
+1477210779 source:d:\alif\tugas kuliah\smt 5\tba\tubes tahap 1\cek\tubestba1\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	"hasil.h"
+
